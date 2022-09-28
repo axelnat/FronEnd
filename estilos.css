@@ -1,0 +1,14 @@
+h1 {
+    color:darkblue ;
+    background-color: linen;
+    
+}
+body {
+    text-align: center;
+    background-color: darkslategrey;
+    enable-background: accumulate;
+}  
+
+a {
+    font-size: 56px;
+}
